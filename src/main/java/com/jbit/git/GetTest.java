@@ -16,6 +16,7 @@ public class GetTest {
         System.out.println("master commit test");
         System.out.println("hello-fix test");
         System.out.println("push test!");
+        System.out.println("pull test!");
 
     }
 }
