@@ -1,5 +1,7 @@
 package com.jbit.git;
 
+import com.sun.org.apache.xml.internal.utils.SystemIDResolver;
+
 /**
  * @author LiuWei
  * @version 1.0
@@ -9,5 +11,7 @@ public class GetTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git2");
+        System.out.println("hello git3");
+
     }
 }
